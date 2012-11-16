@@ -1,0 +1,5 @@
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager\bin\ContactManager.dll
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager\bin\ContactManager.pdb
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager\obj\Debug\ContactManager.dll
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager\obj\Debug\ContactManager.pdb

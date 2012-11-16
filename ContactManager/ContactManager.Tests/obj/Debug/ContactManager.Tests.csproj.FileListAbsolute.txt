@@ -1,0 +1,8 @@
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.Tests.dll.config
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.Tests.dll
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.Tests.pdb
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.dll
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\bin\Debug\ContactManager.pdb
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\obj\Debug\ContactManager.Tests.dll
+C:\Projects\contact-manager-tut-mvc2\ContactManager\ContactManager.Tests\obj\Debug\ContactManager.Tests.pdb
